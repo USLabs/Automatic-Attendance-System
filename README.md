@@ -1,5 +1,5 @@
 # Automatic-Attendance-System
-## Team Synergy:
+## Team Alpha:
 * Gaurav Misra
 * Apoorva Maheshwari
 * Umang Saxena
