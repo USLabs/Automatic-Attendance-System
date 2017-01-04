@@ -1,8 +1,8 @@
 # Automatic-Attendance-System
 ## Team Alpha:
-* Gaurav Misra
-* Apoorva Maheshwari
 * Umang Saxena
+* Apoorva Maheshwari
+* Gaurav Misra
 * Harshit Agarwal
 
 ## System Components:
