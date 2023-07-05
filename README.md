@@ -1,9 +1,4 @@
 # Automatic-Attendance-System
-## Team Alpha:
-* Umang Saxena
-* Apoorva Maheshwari
-* Gaurav Misra
-* Harshit Agarwal
 
 ## System Components:
 1. Raspberry Pi 
